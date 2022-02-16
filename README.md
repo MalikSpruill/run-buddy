@@ -12,3 +12,5 @@ https://malikspruill.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Malik Spruill
+
+### ©️2019 Run Buddy, INC
